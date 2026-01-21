@@ -73,7 +73,7 @@ export default function Index() {
             <div className="menu-card">
               <span className="menu-tag">Хит продаж</span>
               <img
-                src="https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/635b2d4b-c03c-41b4-a4f7-7ae0db310a4d/files/529e6012-b754-4227-9bc5-a4bd6f99e7c0.jpg"
                 alt="Филадельфия"
               />
               <div className="menu-card-body">
@@ -100,7 +100,7 @@ export default function Index() {
                 Острое
               </span>
               <img
-                src="https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/635b2d4b-c03c-41b4-a4f7-7ae0db310a4d/files/c44df4b0-1330-4666-8f53-542d8024f1ea.jpg"
                 alt="Спайси Дракон"
               />
               <div className="menu-card-body">
@@ -125,7 +125,7 @@ export default function Index() {
                 Популярное
               </span>
               <img
-                src="https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                src="https://cdn.poehali.dev/projects/635b2d4b-c03c-41b4-a4f7-7ae0db310a4d/files/739a9906-f218-462e-b160-8abe1071f4f3.jpg"
                 alt="Калифорния"
               />
               <div className="menu-card-body">
